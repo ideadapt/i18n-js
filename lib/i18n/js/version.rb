@@ -3,7 +3,7 @@ module I18n
     module Version
       MAJOR = 3
       MINOR = 0
-      PATCH = 0
+      PATCH = 1
       # Set to nil for stable release
       BUILD = 'rc7'.freeze
       STRING = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
