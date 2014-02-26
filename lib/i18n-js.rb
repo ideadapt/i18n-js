@@ -1,2 +1,2 @@
 require "i18n/js"
-require "tasks/export.rake"
+load "tasks/export.rake"
